@@ -1,0 +1,26 @@
+.container-style{
+    background-color: burlywood;
+}
+
+.heading-style{
+    color: navy;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.country-style{
+    text-align: right;
+}
+
+.button_row-style{
+    text-align: center;
+}
+
+.button-style{
+    padding: 1%;
+    border-color: royalblue;
+    background-color: orange;
+}
+.output-style{
+    margin-left: 40.5%;
+}
